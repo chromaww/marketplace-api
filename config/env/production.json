@@ -1,0 +1,10 @@
+{
+    "server": {
+        "port": 80
+    },
+    "application": {
+        "version": "v1",
+        "debug_mode": false,
+        "log_file_path": "logs"
+    }
+}

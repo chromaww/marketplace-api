@@ -1,0 +1,19 @@
+{
+    "server": {
+        "port": 8080
+    },
+    "application": {
+        "version": "v1",
+        "debug_mode": true,
+        "log_file_path": "logs"
+    },
+    "database": {
+        "driver": "postgres",
+        "host": "",
+        "port": "5432",
+        "name": "",
+        "username": "",
+        "password": "",
+        "sslmode": "disabled"
+    }
+}
